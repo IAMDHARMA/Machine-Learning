@@ -1,4 +1,3 @@
-
 🏢 Energy Consumption Prediction API
 
 This project provides a Flask-based REST API to predict energy consumption for different buildings based on key factors like building type, size, number of occupants, and appliance usage. It uses a trained machine learning regression model (regression.pkl) for predictions.
